@@ -13,3 +13,5 @@ topic = "phuongle_iot/sensor2"
 Run:
 python sensor_sim.py
 python sensor_sim2.py
+
+# 3
